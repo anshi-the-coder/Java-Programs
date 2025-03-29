@@ -2,7 +2,7 @@ import java.util.*;
 
  class Adition
  {
-    public static void main(String arga[])
+    public static void main(String args[])
     {
      int a,b,c;
      System.out.println("enter two number");
